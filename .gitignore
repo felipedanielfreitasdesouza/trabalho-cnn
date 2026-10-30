@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+Cards Image csv/archive.zip
+Cards Image csv/*.h5
+Cards Image csv/train/
+Cards Image csv/valid/
+Cards Image csv/test/
